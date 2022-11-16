@@ -5,6 +5,7 @@
       <configuration>
         <fileset id="fileset" name="Dependency Dookup Context" removed="false">
           <file>file://$MODULE_DIR$/src/main/resources/META-INF/dependency-dookup-context.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/META-INF/dependency-injection-context.xml</file>
         </fileset>
       </configuration>
     </facet>
